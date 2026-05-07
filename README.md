@@ -89,6 +89,10 @@ If those questions resonate — let's connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter_Easter-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/peter-easter-do/)
 [![Email](https://img.shields.io/badge/Email-peter.easter.do%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:EasterMedicalConsulting@gmail.com)
+[![X](https://img.shields.io/badge/X-peter.easter.do%40gmail.com-D14836?style=flat&logo=twitter)](https://x.com/EvidentLabsApps)
+[![X](https://img.shields.io/badge/X-peter.easter.do%40gmail.com-D14836?style=flat&logo=instagram)](https://www.instagram.com/evidentlabsapps/)
+
+
 
 ---
 
